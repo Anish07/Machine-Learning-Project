@@ -1,7 +1,7 @@
 # Customer Segmentation Analysis
 
 ## Overview
-This project performs customer segmentation analysis on the Mall Customers dataset. The goal is to cluster customers based on their **Annual Income** and **Spending Score** to identify distinct customer groups for targeted marketing strategies.
+This project performs customer segmentation analysis on the Mall Customers dataset. The goal is to cluster customers based on their **Annual Income** and **Spending Score** to identify distinct customer groups for targeted marketing strategies. Completed for Course CPS803 - Machine Learning.
 
 ## Features
 The script implements and compares three clustering algorithms:
